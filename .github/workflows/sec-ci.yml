@@ -46,4 +46,4 @@ jobs:
       - name: ZAP Baseline Scan
         uses: zaproxy/action-baseline@v0.9.0
         with:
-          target: 'https://your-live-app-url.com'
+          target: 'https://juice-shop-demo.onrender.com'
